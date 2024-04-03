@@ -38,7 +38,7 @@
     "chalk": "^5.3.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "jose": "^5.2.0",
+    "jose": "^5.2.1",
     "loglevel": "^1.8.1",
     "loglevel-plugin-prefix": "^0.8.4",
     "next": "^14.0.4",
