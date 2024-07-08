@@ -1,7 +1,7 @@
 [versions]
 log4j = "2.23.1"
 slf4j = "2.0.13"
-fasterxml-jackson = "2.17.1"
+fasterxml-jackson = "2.17.2"
 snakeyaml = "2.2"
 
 micronaut = "4.2.4"
