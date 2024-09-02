@@ -1,22 +1,22 @@
 [versions]
 log4j = "2.23.1"
-slf4j = "2.0.13"
-fasterxml-jackson = "2.17.1"
-snakeyaml = "2.2"
+slf4j = "2.0.16"
+fasterxml-jackson = "2.17.2"
+snakeyaml = "2.3"
 
 micronaut = "4.2.4"
 
-avro = "1.11.3"
+avro = "1.12.0"
 confluent-avro = "7.5.1"
 quickfixj = "2.3.1"
 lombok = "1.18.34"
-postgresql = "42.7.3"
-spring-security-crypto = "6.3.1"
+postgresql = "42.7.4"
+spring-security-crypto = "6.3.3"
 
-awaitility = "4.2.1"
-assertj-core = "3.26.0"
-junit-jupiter = "5.10.3"
-testcontainers = "1.19.8"
+awaitility = "4.2.2"
+assertj-core = "3.26.3"
+junit-jupiter = "5.11.0"
+testcontainers = "1.20.1"
 
 plugin-lombok = "8.4"
 plugin-shadow = "8.1.1"
